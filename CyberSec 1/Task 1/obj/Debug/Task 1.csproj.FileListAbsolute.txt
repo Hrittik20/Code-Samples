@@ -1,0 +1,10 @@
+D:\Classes\CyberSec\Task 1\Task 1\bin\Debug\Task 1.exe.config
+D:\Classes\CyberSec\Task 1\Task 1\bin\Debug\Task 1.exe
+D:\Classes\CyberSec\Task 1\Task 1\bin\Debug\Task 1.pdb
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task_1.Form1.resources
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task_1.Properties.Resources.resources
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task 1.csproj.GenerateResource.cache
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task 1.exe
+D:\Classes\CyberSec\Task 1\Task 1\obj\Debug\Task 1.pdb
